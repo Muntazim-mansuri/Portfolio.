@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }
+body{
+    background-color: #2E3047;
+
+}
+header{
+    border: solid none 1px;
+    background-color: #2E3047
+    }
+    
+ #navbar{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 10px;
+    border: solid #2f3950 2px;
+    height: 50px;
+      
+    }
+    
+a{
+    
+    color: #D3D9D4;
+    text-align: none;
+    font-size: 20px;
+    text-decoration: none;
+    
+    
+    }
+
+#search1{
+    
+    position: absolute;
+    left: 1300px;
+    border-radius: 5px;
+    color: black;
+    border: solid #2f3944 2px;
+    
+    }
+
+ #search{
+    
+    font-size: 15px;
+    color: black;
+    border-radius: 5px;
+    background-color:white ;
+    
+    }
+
+#Project{
+    
+    text-align: center;
+    font-size: 60px;
+    padding-top: 50px;
+    color: #D3D9D4;
+    
+    
+    
+        }
+
+#p1{
+
+font-size: 25px;
+color: #D3D9D4;
+padding-left: 30px;
+text-decoration: underline;
+
+}
+
+
+#box{
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    height: 300px;
+
+    }
+     
+.box1{  
+    border: solid #D3D9D4 2px;
+    height: 200px;
+    width: 200px;
+    color: #D3D9D4;
+    }
+
+ .img{
+
+height: 150px;
+width: 198px;
+
+   }
+
+.p{
+
+
+     padding-left: 20px;
+    font-size: 20px;
+     color: #D3D9D4;
+     padding-top: 10px;
+
+     }
+
+#heading{
+
+    text-align: center;
+    font-size: 60px;
+    padding-top: 50px;
+    color: #D3D9D4;
+    
+}
+
+#Education{
+
+height: 700px;
+
+}
+
+#ul{
+
+font-size: 30px;
+
+}
+
+.li{
+
+padding-left: 80px;
+padding-top: 100px;
+color: #D3D9D4;
+font-size: 25px;
+
+   }
+
+
+
+
